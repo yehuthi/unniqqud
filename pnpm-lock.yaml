@@ -20,6 +20,9 @@ importers:
       '@types/jest':
         specifier: ^30.0.0
         version: 30.0.0
+      jest:
+        specifier: ^30.0.3
+        version: 30.0.3(@types/node@24.0.4)
       rollup:
         specifier: ^4.44.1
         version: 4.44.1
